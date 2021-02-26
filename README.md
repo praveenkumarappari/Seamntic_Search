@@ -14,3 +14,6 @@ ___>Open command promt and run the code for activating the local server.
 'docker run -d -p 9200:9200 -e "discovery.type=single-node" elasticsearch:7.9.2'
 
 Further steps are covered in finalsemanticprediction.ipynb file. Extraction worked using Apache Tika by importing parcer.
+
+
+___> Clone the repository for setting the directory used. For testing included the sample data.
