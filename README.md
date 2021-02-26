@@ -17,3 +17,7 @@ Further steps are covered in finalsemanticprediction.ipynb file. Extraction work
 
 
 ___> Clone the repository for setting the directory used. For testing included the sample data.
+
+
+Citation : https://github.com/deepset-ai/haystack
+and few youtube streamings related to data extraction.
